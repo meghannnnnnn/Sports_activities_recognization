@@ -5,7 +5,7 @@
 
 UCF Sports Action Dataset
 
-Link: UCF Sports Action Dataset
+Link: https://www.crcv.ucf.edu/data/UCF_Sports_Action.php
 
 Training Size: 8185
 
